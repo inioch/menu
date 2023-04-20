@@ -16,3 +16,5 @@ The app will display a meal plan for each day of the week and print.
 Technologies
 
 	The app is written in JavaScript. In the future, there are plans to switch to React, which will allow users to edit the meal plan.
+	
+Link: https://inioch.github.io/menu/
